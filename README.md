@@ -1,4 +1,6 @@
-
+<p align="left">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+</p>
 
 - 👋 Hi, I’m Felipe Alfaville
 - 👀 I’m interested in new technologies, Data Structures and Algorithms
@@ -6,9 +8,6 @@
 - 📫 How to reach me lipealfaville@gmail.com
 - 💬 Ask me about anything
 
-<p align="left">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Alfaville&show_icons=true" alt="reisub0" />
 </p>
