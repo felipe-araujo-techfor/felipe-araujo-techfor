@@ -6,12 +6,12 @@
 - 📫 How to reach me lipealfaville@gmail.com
 - 💬 Ask me about anything
 
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfaville&show_icons=true" alt="reisub0" />
+<p align="left">
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfaville&show_icons=true" alt="reisub0" />
+</p>
 
 ### Other Accounts 📫
 
