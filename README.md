@@ -1,6 +1,4 @@
-<h2>I'm Felipe Alfaville, but you can call me Alfaville!</h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
-
-<p><em>Software Engineer at Playkids<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></em></p>
+<h2>I'm Felipe Alfaville, but you can call me Alfaville! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 
 - 👀 I’m interested in new technologies, Data Structures and Algorithms
 - 🌱 I’m currently learning Data Structures and Algorithms
