@@ -1,4 +1,4 @@
-<p><em>Software Engineer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></em></p>
+<p><em><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></em></p>
 
 - 👋 Hi, I’m Felipe Alfaville
 - 👀 I’m interested in new technologies, Data Structures and Algorithms
